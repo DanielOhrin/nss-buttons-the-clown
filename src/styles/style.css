@@ -1,0 +1,29 @@
+.gig, .completed-gig {
+    width: 20rem;
+    border: solid black 2px;
+    text-align: center;
+}
+
+.gig {
+    background-color: lime;
+}
+
+.completed-gig {
+    background-color: red;
+}
+
+li {
+    padding-right: 2rem;
+    list-style: none;
+}
+
+.gig-options {
+    text-align: center;
+}
+
+.completion-info {
+    text-align: center;
+    border-radius: 2rem;
+    border: solid black 2px;
+    background-color: grey;
+}

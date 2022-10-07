@@ -1,0 +1,82 @@
+{
+  "gigs": [
+    {
+      "id": 2,
+      "parent_name": "Test",
+      "child_name": "Test",
+      "address": "Test",
+      "date": "2003-06-28",
+      "length": 2
+    },
+    {
+      "parent_name": "Daniel",
+      "child_name": "Daniel",
+      "address": "4719 Test Drive Park.",
+      "date": "2022-09-30",
+      "length": "45",
+      "id": 3
+    },
+    {
+      "parent_name": "Cassandra",
+      "child_name": "Cassandra",
+      "address": "awoij1u081213 123",
+      "date": "2022-09-16",
+      "length": "24",
+      "id": 4
+    },
+    {
+      "parent_name": "Leslie",
+      "child_name": "Leslie",
+      "address": "a Ave.",
+      "date": "2022-09-01",
+      "length": "2400",
+      "id": 5
+    },
+    {
+      "parent_name": "awdawdawdawd",
+      "child_name": "awdawa",
+      "address": "awdawd",
+      "date": "2022-08-31",
+      "length": "265",
+      "id": 6
+    },
+    {
+      "parent_name": "dwa",
+      "child_name": "dwa",
+      "address": "dwa",
+      "date": "2018-06-05",
+      "length": "dwa",
+      "id": 7
+    }
+  ],
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completedGigs": [
+    {
+      "id": 1,
+      "gigId": 2,
+      "clownId": 2,
+      "completion_date": 1664223227684
+    },
+    {
+      "gigId": 3,
+      "clownId": 1,
+      "completion_date": 1664225222007,
+      "id": 2
+    },
+    {
+      "gigId": 5,
+      "clownId": 2,
+      "completion_date": 1664225401408,
+      "id": 3
+    }
+  ]
+}
